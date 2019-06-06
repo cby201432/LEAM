@@ -4,7 +4,7 @@ This is the implementation of Guoyin Wang's [Joint Embedding of Words and Labels
 Code refers Guoyin Wang(https://github.com/guoyinwang/LEAM)
 
 ## Dependencies
-* python 3.6
+* python 3.5
 * pytorch 0.4.0
 * jieba 0.39
 
