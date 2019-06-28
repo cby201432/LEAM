@@ -58,6 +58,7 @@
 # lookup_tensor = torch.tensor([[0, 1, 0, 1],[0, 1, 1, 1]], dtype=torch.long)
 # hello_embed = embeds(lookup_tensor)
 
+import numpy as np
 import torch
 import torch.nn as nn
 X = torch.rand(50, 1, 100, 300)
