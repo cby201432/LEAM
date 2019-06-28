@@ -7,6 +7,7 @@ from torch.nn import functional as F
 from utils import get_minibatches_idx, prepare_data_for_emb, visualize
 from model import LEAM
 from preprocess import convert_word2idx
+import numpy as np
 
 
 def training(args):
